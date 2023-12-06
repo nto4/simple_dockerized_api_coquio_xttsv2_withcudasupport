@@ -1,0 +1,6 @@
+TTS==0.21.3
+flask==2.3.3
+# nltk==3.8.1
+# pydub==0.25.1
+# boto3==1.28.60
+# requests
